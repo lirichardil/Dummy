@@ -2,6 +2,7 @@
 
 RGB::RGB(uint8_t m) {
     //init here
+    //Run();
 }
 
 void RGB::Run(RGB::Rgb_style_t mode) {
